@@ -9,7 +9,7 @@
 * import java.awt.Rectangle;
 * import java.util.Random;
 
-### and the main class was extended by Canvas and implemeted by Runnable and KeyListener, anothers natives feautures of Java.
+### and the main class was extended by Canvas and implemented by Runnable and KeyListener, anothers Java's natives features.
 ### This and another things makes easier to make graphics with Java than with anothers programming languages.
 
 
