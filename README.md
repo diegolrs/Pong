@@ -9,7 +9,7 @@
 * import java.awt.Rectangle;
 * import java.util.Random;
 
-### and the main classe was extended by Canvas, another native feauture of Java.
+### and the main class was extended by Canvas, another native feauture of Java.
 ### This and another things makes easier to make graphics with Java than with anothers programming languages.
 
 
