@@ -115,7 +115,7 @@ public class Game extends Canvas implements Runnable, KeyListener{
 			if(now - lastTime >= ns/SPEED) {
 				tick();
 				render();				
-				lastTime = System.nanoTime();
+				lastTime = now;
 			}			
 		}
 		
