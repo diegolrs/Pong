@@ -21,5 +21,5 @@
 <p align="center">
   <br><br><br>
   <a>Created by</a>
-  <a href="https://github.com/diegolrs">Diego Reis</a>, 
+  <a href="https://github.com/diegolrs">Diego Reis</a>
 </p>
